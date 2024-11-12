@@ -1,0 +1,14 @@
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\bin\Debug\net8.0\NumericOperatorsandRoutines.exe
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\bin\Debug\net8.0\NumericOperatorsandRoutines.deps.json
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\bin\Debug\net8.0\NumericOperatorsandRoutines.runtimeconfig.json
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\bin\Debug\net8.0\NumericOperatorsandRoutines.dll
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\bin\Debug\net8.0\NumericOperatorsandRoutines.pdb
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\obj\Debug\net8.0\NumericOperatorsandRoutines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\obj\Debug\net8.0\NumericOperatorsandRoutines.AssemblyInfoInputs.cache
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\obj\Debug\net8.0\NumericOperatorsandRoutines.AssemblyInfo.cs
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\obj\Debug\net8.0\NumericOperatorsandRoutines.csproj.CoreCompileInputs.cache
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\obj\Debug\net8.0\NumericOperatorsandRoutines.dll
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\obj\Debug\net8.0\refint\NumericOperatorsandRoutines.dll
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\obj\Debug\net8.0\NumericOperatorsandRoutines.pdb
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\obj\Debug\net8.0\NumericOperatorsandRoutines.genruntimeconfig.cache
+C:\Users\Krystal Salinas\source\repos\NumericOperatorsandRoutines\obj\Debug\net8.0\ref\NumericOperatorsandRoutines.dll
